@@ -22,8 +22,12 @@ pkg update
  
  pip install requests
 
+# Run
+
 git clone https://github.com/Nisad-Hossain/NH-PY3_ENC
 
 cd NH-PY3_ENC
+
+# Python
 
 python NH-PY3_ENC.py
